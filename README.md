@@ -13,7 +13,7 @@ export CODEX_PLUGIN_ROOT="$HOME/tools/crypto-workbench"
 ```
 
 Then to use the plugin, move to your working directory and start codex, make sure to export the path to plugin once again.
-```
+```bash
 cd workbench-test
 export CODEX_PLUGIN_ROOT="$HOME/tools/crypto-workbench"
 codex
