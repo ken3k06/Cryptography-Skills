@@ -2,7 +2,8 @@
   "name" : "cryptography-skills", 
   "version" : "0.1.0", 
   "description" : "Codex workflow plugin for cryptography ctf challenge solver", 
-  "skills" : "./ctf-crypto"
+  "skills" : "./ctf-crypto",
+  "mcpServers": "./.mcp.json"
 }
 
 
