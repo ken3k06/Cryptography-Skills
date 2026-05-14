@@ -1,0 +1,14 @@
+{
+"mcpServers": {
+    "sagemath-server": {
+    "command": "node",
+    "args": [
+        "/home/dvck13/tools/mcp-server-sagemath/dist/index.js"
+    ],
+    "env": {
+        "SAGE_PATH": "/home/dvck13/miniforge3/envs/sage/bin/sage"
+    }
+    }
+}
+}
+
